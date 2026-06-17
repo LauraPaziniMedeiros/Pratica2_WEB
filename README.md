@@ -10,4 +10,6 @@ Este projeto é um Web Service para a loja "Poções e Soluções" de Anna Innab
 2. Inicialize o projeto e instale as dependências executando:
    ```bash
    npm install express sequelize sqlite3 cors
-3. Execute com npm start
+3. Para executar:
+   ```bash
+   npm start
