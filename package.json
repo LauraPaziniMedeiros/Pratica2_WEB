@@ -1,0 +1,16 @@
+{
+  "name": "pocoes-e-solucoes",
+  "version": "1.0.0",
+  "description": "Web service para loja de poções",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^5.1.7"
+  }
+}
